@@ -1,0 +1,6 @@
+dtype,index
+date,FL_DATE
+double,"DEP_DELAY, DEP_DELAY_NEW, DEP_DEL15, TAXI_OUT, TAXI_IN, ARR_DELAY, ARR_DELAY_NEW, ARR_DEL15, DIVERTED, CRS_ELAPSED_TIME, ACTUAL_ELAPSED_TIME, AIR_TIME, FLIGHTS, DISTANCE, CARRIER_DELAY, WEATHER_DELAY, NAS_DELAY, SECURITY_DELAY, LATE_AIRCRAFT_DELAY, TOTAL_ADD_GTIME, LONGEST_ADD_GTIME, HourlyAltimeterSetting, HourlyDewPointTemperature, HourlyDryBulbTemperature, HourlyPrecipitation, HourlyRelativeHumidity, HourlySeaLevelPressure, HourlyStationPressure, HourlyVisibility, HourlyWetBulbTemperature, HourlyWindDirection, HourlyWindGustSpeed, HourlyWindSpeed"
+int,"QUARTER, DAY_OF_MONTH, DAY_OF_WEEK, CRS_DEP_TIME, DEP_TIME, DEP_DELAY_GROUP, WHEELS_OFF, WHEELS_ON, CRS_ARR_TIME, ARR_TIME, ARR_DELAY_GROUP, DISTANCE_GROUP, FIRST_DEP_TIME, YEAR, MONTH"
+string,"OP_CARRIER, ORIGIN, DEST, DEP_TIME_BLK, ARR_TIME_BLK, origin_type, dest_type, HourlyPresentWeatherType, HourlySkyConditions"
+timestamp,"sched_depart_date_time, sched_depart_date_time_UTC, four_hours_prior_depart_UTC, two_hours_prior_depart_UTC, DATE"
